@@ -31,7 +31,7 @@ SVG Resources
 - [Weighing SVG Animation Techniques (with Benchmarks)](https://css-tricks.com/weighing-svg-animation-techniques-benchmarks/) by [@Sarah Drasner](https://sarahdrasnerdesign.com/)
 - [How to Animate Festive SVG Icons With CSS](http://webdesign.tutsplus.com/tutorials/how-to-animate-festive-svg-icons-with-css--webdesign-17658) by [@Noah Blon](http://tutsplus.com/authors/noah-blon)
 - [How to Style and Animate SVG Elements with CSS](http://medialoot.com/blog/how-to-style-and-animate-svg-elements-with-css/) by @Benedikte Vanderweeën
-- [Clipping and Masking in CSS](https://css-tricks.com/clipping-masking-css/) by [@Chris Coyier](https://css-tricks.com/)
+- [Clipping and Masking in CSS](https://css-tricks.com/clipping-masking-css/) by [@Chris Coyier](https://css-tricks.com/)——[译文](http://www.w3cplus.com/css3/clipping-masking-css.html) by [@彦子](https://github.com/yanzilulu)
 - [SVG Animation and CSS Transforms: A Complicated Love Story](https://css-tricks.com/svg-animation-on-css-transforms/) by @Jack Doyle
 - [SVG Animations](https://robots.thoughtbot.com/svg-animations) by [@Steven Harley](https://twitter.com/smharley)
 - [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/) by [@Sara Soueidan](http://www.smashingmagazine.com/author/sarasoueidan/)
