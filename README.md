@@ -12,7 +12,7 @@ SVG Resources
 - [How to Scale SVG](https://css-tricks.com/scale-svg/) by @Amelia Bellamy-Royds
 - [Understanding the SVG viewBox and viewport](http://modernweb.com/2014/06/19/understanding-the-svg-viewbox-and-viewport/) by @remotesynth
 - [Using SVG Stroke Attributes](http://modernweb.com/2014/07/09/using-svg-stroke-attributes/) by @remotesynth
-- [3 TRICKS FOR ADDING TEXTURE TO YOUR TEXT WITH CSS AND SVG](http://www.webdesignerdepot.com/2014/12/3-tricks-for-adding-texture-to-your-text-with-css-and-svg/) by [@SAMUEL NORTON](http://www.webdesignerdepot.com/author/Samuel-Norton)
+- [3 TRICKS FOR ADDING TEXTURE TO YOUR TEXT WITH CSS AND SVG](http://www.webdesignerdepot.com/2014/12/3-tricks-for-adding-texture-to-your-text-with-css-and-svg/) by [@SAMUEL NORTON](http://www.webdesignerdepot.com/author/Samuel-Norton) （lizimeow已认领）
 - [Sketchy Avatars with CSS clip-path](https://css-tricks.com/sketchy-avatars-css-clip-path/) by [@Ryan Scherf](http://twitter.com/ryanscherf)
 - [Getting Started With Inline SVG](http://marketblog.envato.com/learn-something-new/getting-started-inline-svg/) by [@Nick Salloum](http://marketblog.envato.com/author/nick-salloum/)
 - [Structuring, Grouping, and Referencing in SVG — The `<g>`, `<use>`, `<defs>` and `<symbol>` Elements](http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
