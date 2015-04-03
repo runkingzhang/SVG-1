@@ -4,7 +4,7 @@ SVG Resources
 ###Basics
 
 - [The SVG Canvas, Coordinate System, And Viewport](http://www.vanseodesign.com/web-design/svg-viewport/) by [@Steven Bradley](http://www.vanseodesign.com/about/)
-- [Polylion](https://css-tricks.com/polylion/) by [@Dennis Gaebel](http://grayghostvisuals.com/)
+- [Polylion](https://css-tricks.com/polylion/) by [@Dennis Gaebel](http://grayghostvisuals.com/)（yanzilulu已认领）
 - [SVG Basics—Creating Paths With Curve Commands](http://www.vanseodesign.com/web-design/svg-paths-curve-commands/) by [@Steven Bradley](http://www.vanseodesign.com/about/)（yanzilulu已认领）
 - [SVG Basics—Creating Paths With Line Commands](http://www.vanseodesign.com/web-design/svg-paths-line-commands/) by [@Steven Bradley](http://www.vanseodesign.com/about/)（yanzilulu已认领）
 - [How to Scale SVG](https://css-tricks.com/scale-svg/) by @Amelia Bellamy-Royds
