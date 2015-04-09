@@ -4,7 +4,7 @@ SVG Resources
 ###Basics
 
 - [The SVG Canvas, Coordinate System, And Viewport](http://www.vanseodesign.com/web-design/svg-viewport/) by [@Steven Bradley](http://www.vanseodesign.com/about/)
-- [Polylion](https://css-tricks.com/polylion/) by [@Dennis Gaebel](http://grayghostvisuals.com/)（yanzilulu已认领）
+- [Polylion](https://css-tricks.com/polylion/) by [@Dennis Gaebel](http://grayghostvisuals.com/)——[译文](http://www.w3cplus.com/svg/polylion.html) by [@彦子](http://weibo.com/793617505sy)
 - [SVG Basics—How to Work with Scalable Vector Graphics](http://www.vanseodesign.com/web-design/svg-basics/) by [@Steven Bradley](http://www.vanseodesign.com/about/)（yanzilulu已认领）
 - [SVG Basics—How To Create Simple Shapes And Lines](http://www.vanseodesign.com/web-design/svg-shapes-lines/)  by [@Steven Bradley](http://www.vanseodesign.com/about/)（yanzilulu已认领）
 - [SVG Basics — Fills And Strokes](http://www.vanseodesign.com/web-design/svg-fill-stroke/)  by [@Steven Bradley](http://www.vanseodesign.com/about/)
