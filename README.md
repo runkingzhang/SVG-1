@@ -54,6 +54,7 @@ SVG Resources
 
 ### SVG ICON
 
+- [Learning SVG With Logos](http://wegnerdesign.com/blog/learning-svg-with-logos/) by [@Joe Wegner](http://wegnerdesign.com/)
 - [Inline SVG with Grunticon Fallback](https://css-tricks.com/inline-svg-grunticon-fallback/) by [@Chris Coyier](https://css-tricks.com)
 - [Build Your Own SVG Icons](http://www.sitepoint.com/build-svg-icons/) by [@Massimo Cassandro](http://www.sitepoint.com/author/mcassandro/)
 - [SVG as a Modern Web Graphics Design](http://css-diary.com/svg-as-a-modern-web-graphics-design/) by @NIKUL LAKHANI
