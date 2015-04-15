@@ -49,7 +49,7 @@ SVG Resources
 ###Create SVG 
 
 - [Better SVG Fallback and Art Direction With The `<picture>` Element](http://sarasoueidan.com/blog/svg-picture/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
-- [SVG Files: From Illustrator to the Web](http://design.tutsplus.com/tutorials/svg-files-from-illustrator-to-the-web--vector-20899) by [@Ian Yates](http://tutsplus.com/authors/ian-yates)（yanzilulu已认领）
+- [SVG Files: From Illustrator to the Web](http://design.tutsplus.com/tutorials/svg-files-from-illustrator-to-the-web--vector-20899) by [@Ian Yates](http://tutsplus.com/authors/ian-yates)——[译文](http://www.w3cplus.com/svg/svg-files-from-illustrator-to-the-web.html) by [@彦子](http://weibo.com/793617505sy)
 - [Export SVG for the web with Illustrator CC](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
 
 ### SVG ICON
