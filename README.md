@@ -10,7 +10,7 @@ SVG Resources
 - [SVG Basics — Fills And Strokes](http://www.vanseodesign.com/web-design/svg-fill-stroke/)  by [@Steven Bradley](http://www.vanseodesign.com/about/)（yanzilulu已认领）
 - [SVG Basics—Creating Paths With Curve Commands](http://www.vanseodesign.com/web-design/svg-paths-curve-commands/) by [@Steven Bradley](http://www.vanseodesign.com/about/)——[译文](http://www.w3cplus.com/svg/svg-paths-curve-commands.html) by [@彦子](http://weibo.com/793617505sy)
 - [SVG Basics—Creating Paths With Line Commands](http://www.vanseodesign.com/web-design/svg-paths-line-commands/) by [@Steven Bradley](http://www.vanseodesign.com/about/)——[译文](http://www.w3cplus.com/svg/svg-paths-line-commands.html) by [@彦子](http://weibo.com/793617505sy)
-- [The SVG Canvas, Coordinate System, And Viewport](http://www.vanseodesign.com/web-design/svg-viewport/)  by [@Steven Bradley](http://www.vanseodesign.com/about/)
+- [The SVG Canvas, Coordinate System, And Viewport](http://www.vanseodesign.com/web-design/svg-viewport/)  by [@Steven Bradley](http://www.vanseodesign.com/about/)（yanzilulu已认领）
 - [Move And Scale SVG Graphics With The viewBox Attribute](http://www.vanseodesign.com/web-design/svg-viewbox/)  by [@Steven Bradley](http://www.vanseodesign.com/about/)
 - [How to Scale SVG](https://css-tricks.com/scale-svg/) by @Amelia Bellamy-Royds
 - [Understanding the SVG viewBox and viewport](http://modernweb.com/2014/06/19/understanding-the-svg-viewbox-and-viewport/) by @remotesynth
