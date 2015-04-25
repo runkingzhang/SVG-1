@@ -31,6 +31,7 @@ SVG Resources
 
 ### Transform && Animation
 
+- [Create an SVG Animation using CSS and JavaScript](http://designmodo.com/svg-animation/) by [@Sam Norton](http://designmodo.com/author/samuelnorton/)
 - [Building a Circular Navigation with CSS Transforms SVG](http://sarasoueidan.com/blog/building-a-circular-navigation-with-svg/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
 - [Transform your illustration into smart SVG](https://medium.com/@benev/transform-your-illustration-into-smart-svg-51b505f908f0) by [@Bene](https://medium.com/@benev)
 - [SVG Scrolling Animation Triggered By ScrollMagic](https://ihatetomatoes.net/svg-scrolling-animation-triggered-scrollmagic/) by [@Petr Tichy](http://www.twitter.com/ihatetomatoes)
