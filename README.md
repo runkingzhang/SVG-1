@@ -3,6 +3,7 @@ SVG Resources
 
 ###Basics
 
+- [THE ULTIMATE GUIDE TO SVG](http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/) by [@EZEQUIEL BRUNI](http://www.webdesignerdepot.com/author/Ezequiel-Bruni)
 - [The SVG Canvas, Coordinate System, And Viewport](http://www.vanseodesign.com/web-design/svg-viewport/) by [@Steven Bradley](http://www.vanseodesign.com/about/)
 - [Polylion](https://css-tricks.com/polylion/) by [@Dennis Gaebel](http://grayghostvisuals.com/)——[译文](http://www.w3cplus.com/svg/polylion.html) by [@彦子](http://weibo.com/793617505sy)
 - [SVG Basics—How to Work with Scalable Vector Graphics](http://www.vanseodesign.com/web-design/svg-basics/) by [@Steven Bradley](http://www.vanseodesign.com/about/)——[译文](http://www.w3cplus.com/svg/svg-basics.html) by [@彦子](http://weibo.com/793617505sy)
@@ -31,6 +32,8 @@ SVG Resources
 
 ### Transform && Animation
 
+- [SVG Path Animation with jQuery and Illustrator](http://blog.teamtreehouse.com/svg-path-animation-with-jquery-and-illustrator)  by [@Mat Helme](http://blog.teamtreehouse.com/author/mathelme)
+- [Create an Animated SVG Loader Using GreenSock’s DrawSVG](http://webdesign.tutsplus.com/tutorials/create-an-animated-svg-loader-using-greensocks-drawsvg--cms-23067) by [@Dennis Gaebel](http://tutsplus.com/authors/dennis-gaebel)
 - [Create an SVG Animation using CSS and JavaScript](http://designmodo.com/svg-animation/) by [@Sam Norton](http://designmodo.com/author/samuelnorton/)
 - [Building a Circular Navigation with CSS Transforms SVG](http://sarasoueidan.com/blog/building-a-circular-navigation-with-svg/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
 - [Transform your illustration into smart SVG](https://medium.com/@benev/transform-your-illustration-into-smart-svg-51b505f908f0) by [@Bene](https://medium.com/@benev)
