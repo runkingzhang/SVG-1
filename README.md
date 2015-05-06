@@ -78,8 +78,3 @@ SVG Resources
 - [SVG Tutorial](http://tutorials.jenkov.com/svg/svg-animation.html) by [@Jakob Jenkov](http://jakob.jenkov.com/)
 - [Pocket Guide to Writing SVG](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md) by [@Joni Trythall](https://github.com/jonitrythall)
 
-### Performance
-
-- [Tips For Optimising SVG Delivery For The Web](http://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/) by [@Sara Soueidan](http://sarasoueidan.com/)
-- [(More Than) Doubling SVG FPS Rates at Khan Academy](http://www.crmarsh.com/svg-performance/) by [@crm416](http://www.github.com/crm416)
-
