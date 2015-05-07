@@ -34,6 +34,7 @@ SVG Resources
 
 ### Transform && Animation
 
+- [Transforms on SVG Elements](https://css-tricks.com/transforms-on-svg-elements/) by [@Ana Tudor](http://codepen.io/thebabydino/)
 - [Sign on the Dotted Line: Animating Your Own SVG Signature](http://webdesign.tutsplus.com/tutorials/sign-on-the-dotted-line-animating-your-own-svg-signature--cms-23846) by [@Ian Yates](http://tutsplus.com/authors/ian-yates)
 - [SVG Path Animation with jQuery and Illustrator](http://blog.teamtreehouse.com/svg-path-animation-with-jquery-and-illustrator)  by [@Mat Helme](http://blog.teamtreehouse.com/author/mathelme)
 - [Create an Animated SVG Loader Using GreenSock’s DrawSVG](http://webdesign.tutsplus.com/tutorials/create-an-animated-svg-loader-using-greensocks-drawsvg--cms-23067) by [@Dennis Gaebel](http://tutsplus.com/authors/dennis-gaebel)
