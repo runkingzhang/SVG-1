@@ -3,6 +3,7 @@ SVG Resources
 
 ###Basics
 
+- [Art-Directing SVG Images With The viewBox Attribute: How-To, Notes, Tips and Why We Need A viewBox Property in CSS](http://sarasoueidan.com/blog/svg-art-direction-using-viewbox/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
 - [A Complete Guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/) by [@Bellamy-Royds](https://twitter.com/AmeliasBrain)
 - [THE ULTIMATE GUIDE TO SVG](http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/) by [@EZEQUIEL BRUNI](http://www.webdesignerdepot.com/author/Ezequiel-Bruni)
 - [The SVG Canvas, Coordinate System, And Viewport](http://www.vanseodesign.com/web-design/svg-viewport/) by [@Steven Bradley](http://www.vanseodesign.com/about/)
