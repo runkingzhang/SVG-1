@@ -3,6 +3,7 @@ SVG Resources
 
 ###Basics
 
+- [The Art Of The SVG Filter And Why It Is Awesome](http://www.smashingmagazine.com/2015/05/26/why-the-svg-filter-is-awesome/) by [@Dirk Weber](http://www.smashingmagazine.com/author/dirkweber/)
 - [Art-Directing SVG Images With The viewBox Attribute: How-To, Notes, Tips and Why We Need A viewBox Property in CSS](http://sarasoueidan.com/blog/svg-art-direction-using-viewbox/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
 - [A Complete Guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/) by [@Bellamy-Royds](https://twitter.com/AmeliasBrain)
 - [THE ULTIMATE GUIDE TO SVG](http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/) by [@EZEQUIEL BRUNI](http://www.webdesignerdepot.com/author/Ezequiel-Bruni)
