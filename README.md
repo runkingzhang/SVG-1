@@ -3,8 +3,8 @@ SVG Resources
 
 ###Basics
 
-- [The Art Of The SVG Filter And Why It Is Awesome](http://www.smashingmagazine.com/2015/05/26/why-the-svg-filter-is-awesome/) by [@Dirk Weber](http://www.smashingmagazine.com/author/dirkweber/)
-- [Art-Directing SVG Images With The viewBox Attribute: How-To, Notes, Tips and Why We Need A viewBox Property in CSS](http://sarasoueidan.com/blog/svg-art-direction-using-viewbox/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
+- [The Art Of The SVG Filter And Why It Is Awesome](http://www.smashingmagazine.com/2015/05/26/why-the-svg-filter-is-awesome/) by [@Dirk Weber](http://www.smashingmagazine.com/author/dirkweber/) 
+- [Art-Directing SVG Images With The viewBox Attribute: How-To, Notes, Tips and Why We Need A viewBox Property in CSS](http://sarasoueidan.com/blog/svg-art-direction-using-viewbox/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)—— [译文](http://www.w3cplus.com/svg/svg-art-direction-using-viewbox.html) by [@彦子](http://weibo.com/793617505sy)
 - [A Complete Guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/) by [@Bellamy-Royds](https://twitter.com/AmeliasBrain)
 - [THE ULTIMATE GUIDE TO SVG](http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/) by [@EZEQUIEL BRUNI](http://www.webdesignerdepot.com/author/Ezequiel-Bruni)
 - [The SVG Canvas, Coordinate System, And Viewport](http://www.vanseodesign.com/web-design/svg-viewport/) by [@Steven Bradley](http://www.vanseodesign.com/about/)
@@ -36,6 +36,7 @@ SVG Resources
 
 ### Transform && Animation
 
+- [Animate SVG Icons with CSS3 & JavaScript](http://pencilscoop.com/2013/11/animate-svg-icons-with-css3-jquery) By Joe Howard
 - [Transforms on SVG Elements](https://css-tricks.com/transforms-on-svg-elements/) by [@Ana Tudor](http://codepen.io/thebabydino/)
 - [Sign on the Dotted Line: Animating Your Own SVG Signature](http://webdesign.tutsplus.com/tutorials/sign-on-the-dotted-line-animating-your-own-svg-signature--cms-23846) by [@Ian Yates](http://tutsplus.com/authors/ian-yates)
 - [SVG Path Animation with jQuery and Illustrator](http://blog.teamtreehouse.com/svg-path-animation-with-jquery-and-illustrator)  by [@Mat Helme](http://blog.teamtreehouse.com/author/mathelme)
