@@ -38,6 +38,7 @@ SVG Resources
 
 ### Transform && Animation
 
+- [The State of SVG Animation](http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html)  by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)
 - [Animate SVG Icons with CSS3 & JavaScript](http://pencilscoop.com/2013/11/animate-svg-icons-with-css3-jquery) By Joe Howard
 - [Transforms on SVG Elements](https://css-tricks.com/transforms-on-svg-elements/) by [@Ana Tudor](http://codepen.io/thebabydino/)
 - [Sign on the Dotted Line: Animating Your Own SVG Signature](http://webdesign.tutsplus.com/tutorials/sign-on-the-dotted-line-animating-your-own-svg-signature--cms-23846) by [@Ian Yates](http://tutsplus.com/authors/ian-yates)
