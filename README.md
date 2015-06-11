@@ -68,6 +68,7 @@ SVG Resources
 
 ### SVG ICON
 
+- [Creating an SVG icon workflow](http://lukewhitehouse.co.uk/blog/svg-icon-workflow/) by [@lukewh](http://twitter.com/_lukewh)
 - [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](http://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens) by [@JEREMY FRANK](http://viget.com/about/team/jfrank)
 - [Responsive Logos, Part 2: Making Logos Truly Responsive with Inline SVG](http://viget.com/inspire/responsive-logos-part-2-making-logos-truly-responsive-with-svg) by [@JEREMY FRANK](http://viget.com/about/team/jfrank)
 - [Learning SVG With Logos](http://wegnerdesign.com/blog/learning-svg-with-logos/) by [@Joe Wegner](http://wegnerdesign.com/)
