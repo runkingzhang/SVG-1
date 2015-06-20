@@ -86,4 +86,5 @@ SVG Resources
 - [UP AND RUNNING WITH SVG](http://svgtutorial.com/) by @Mijingo
 - [SVG Tutorial](http://tutorials.jenkov.com/svg/svg-animation.html) by [@Jakob Jenkov](http://jakob.jenkov.com/)
 - [Pocket Guide to Writing SVG](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md) by [@Joni Trythall](https://github.com/jonitrythall)
+- [SVG 完整教學 31 天](http://www.oxxostudio.tw/articles/201410/svg-tutorial.html)
 
