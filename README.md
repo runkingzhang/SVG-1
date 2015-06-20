@@ -3,6 +3,7 @@ SVG Resources
 
 ###Basics
 
+- [Tips for using SVGs in web projects](http://benfrain.com/tips-for-using-svgs-in-web-projects/) by [@Ben Frain](https://plus.google.com/107588612045728705538)
 - [Applying multiple SVG filter effects defined in CSS or HTML](http://benfrain.com/applying-multiple-svg-filter-effects-defined-in-css-or-html/) by [@Ben Frain](https://plus.google.com/107588612045728705538)
 - [Color Filters Can Turn Your Gray Skies Blue](https://css-tricks.com/color-filters-can-turn-your-gray-skies-blue/) by [@Amelia Bellamy-Royds](https://twitter.com/AmeliasBrain)
 - [The Art Of The SVG Filter And Why It Is Awesome](http://www.smashingmagazine.com/2015/05/26/why-the-svg-filter-is-awesome/) by [@Dirk Weber](http://www.smashingmagazine.com/author/dirkweber/) 
