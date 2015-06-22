@@ -27,7 +27,7 @@ SVG Resources
 - [3 TRICKS FOR ADDING TEXTURE TO YOUR TEXT WITH CSS AND SVG](http://www.webdesignerdepot.com/2014/12/3-tricks-for-adding-texture-to-your-text-with-css-and-svg/) by [@SAMUEL NORTON](http://www.webdesignerdepot.com/author/Samuel-Norton)——[译文](http://www.w3cplus.com/css3/3-tricks-for-adding-texture-to-your-text-with-css-and-svg.html) by [@栗子酱](http://weibo.com/u/2269025244)
 - [Sketchy Avatars with CSS clip-path](https://css-tricks.com/sketchy-avatars-css-clip-path/) by [@Ryan Scherf](http://twitter.com/ryanscherf)
 - [Getting Started With Inline SVG](http://marketblog.envato.com/learn-something-new/getting-started-inline-svg/) by [@Nick Salloum](http://marketblog.envato.com/author/nick-salloum/)
-- [Structuring, Grouping, and Referencing in SVG — The `<g>`, `<use>`, `<defs>` and `<symbol>` Elements](http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
+- [Structuring, Grouping, and Referencing in SVG — The `<g>`, `<use>`, `<defs>` and `<symbol>` Elements](http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)（认领by彦子）
 
 ### SVG && Sprites
 
