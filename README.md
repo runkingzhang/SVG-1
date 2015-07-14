@@ -3,6 +3,7 @@ SVG Resources
 
 ###Basics
 
+- [ART-DIRECTING AN SVG EMBEDDED USING `<OBJECT>`](http://sarasoueidan.com/blog/art-directing-svg-object/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
 - [Discover the power of SVG](http://www.creativebloq.com/web-design/discover-power-svg-61515291)
 - [Tips for using SVGs in web projects](http://benfrain.com/tips-for-using-svgs-in-web-projects/) by [@Ben Frain](https://plus.google.com/107588612045728705538)
 - [Applying multiple SVG filter effects defined in CSS or HTML](http://benfrain.com/applying-multiple-svg-filter-effects-defined-in-css-or-html/) by [@Ben Frain](https://plus.google.com/107588612045728705538)
