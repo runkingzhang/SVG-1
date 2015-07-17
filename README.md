@@ -3,6 +3,8 @@ SVG Resources
 
 ###Basics
 
+- [The Seven Stages of SVG](http://codepen.io/chrisgannon/blog/seven-stages-of-svg) by [@Chris Gannon](http://codepen.io/chrisgannon/)
+- [Styling SVG `<use>` Content with CSS](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css) by [@Sara Soueidan](http://tympanus.net/codrops/author/sarasoueidan/)
 - [ART-DIRECTING AN SVG EMBEDDED USING `<OBJECT>`](http://sarasoueidan.com/blog/art-directing-svg-object/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
 - [Discover the power of SVG](http://www.creativebloq.com/web-design/discover-power-svg-61515291)
 - [Tips for using SVGs in web projects](http://benfrain.com/tips-for-using-svgs-in-web-projects/) by [@Ben Frain](https://plus.google.com/107588612045728705538)
