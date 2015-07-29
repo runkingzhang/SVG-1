@@ -3,6 +3,7 @@ SVG Resources
 
 ###Basics
 
+- [Designing Flexible, Maintainable Pie Charts With CSS and SVG](http://www.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/) by [@Lea Verou](http://www.smashingmagazine.com/author/lea-verou/)
 - [The Seven Stages of SVG](http://codepen.io/chrisgannon/blog/seven-stages-of-svg) by [@Chris Gannon](http://codepen.io/chrisgannon/)
 - [Styling SVG `<use>` Content with CSS](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css) by [@Sara Soueidan](http://tympanus.net/codrops/author/sarasoueidan/)
 - [ART-DIRECTING AN SVG EMBEDDED USING `<OBJECT>`](http://sarasoueidan.com/blog/art-directing-svg-object/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
