@@ -3,6 +3,7 @@ SVG Resources
 
 ###Basics
 
+- [CSS vs. SVG: Graphical Text Effects](http://blogs.adobe.com/dreamweaver/2015/07/css-vs-svg-graphical-text.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)
 - [Designing Flexible, Maintainable Pie Charts With CSS and SVG](http://www.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/) by [@Lea Verou](http://www.smashingmagazine.com/author/lea-verou/)
 - [The Seven Stages of SVG](http://codepen.io/chrisgannon/blog/seven-stages-of-svg) by [@Chris Gannon](http://codepen.io/chrisgannon/)
 - [Styling SVG `<use>` Content with CSS](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css) by [@Sara Soueidan](http://tympanus.net/codrops/author/sarasoueidan/)
