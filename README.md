@@ -4,7 +4,7 @@ SVG Resources
 ###Basics
 
 - [Tight Fitting SVG Shapes, the Present and Future](https://css-tricks.com/tight-fitting-svg-shapes/) by [@ Ana Tudor](https://css-tricks.com/author/thebabydino/)
-- [CSS vs. SVG: Graphical Text Effects](http://blogs.adobe.com/dreamweaver/2015/07/css-vs-svg-graphical-text.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)
+- [CSS vs. SVG: Graphical Text Effects](http://blogs.adobe.com/dreamweaver/2015/07/css-vs-svg-graphical-text.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)——[译文](http://www.w3cplus.com/svg/css-vs-svg-graphical-text.html) by [@大漠](http://www.w3cplus.com)
 - [Designing Flexible, Maintainable Pie Charts With CSS and SVG](http://www.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/) by [@Lea Verou](http://www.smashingmagazine.com/author/lea-verou/) —— [译文](http://www.w3cplus.com/css3/designing-simple-pie-charts-with-css.html) by [@彦子](http://weibo.com/793617505sy)
 - [The Seven Stages of SVG](http://codepen.io/chrisgannon/blog/seven-stages-of-svg) by [@Chris Gannon](http://codepen.io/chrisgannon/)
 - [Styling SVG `<use>` Content with CSS](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css) by [@Sara Soueidan](http://tympanus.net/codrops/author/sarasoueidan/)
