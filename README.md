@@ -8,7 +8,7 @@ SVG Resources
 - [CSS vs SVG: Styling Checkboxes and Radio Buttons](https://blogs.adobe.com/dreamweaver/2015/08/css-vs-svg-styling-checkboxes-and-radio-buttons.html) ——[译文](http://www.w3cplus.com/svg/css-vs-svg-styling-checkboxes-and-radio-buttons.html) by [@大漠](http://www.w3cplus.com)
 - [Designing Flexible, Maintainable Pie Charts With CSS and SVG](http://www.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/) by [@Lea Verou](http://www.smashingmagazine.com/author/lea-verou/) —— [译文](http://www.w3cplus.com/css3/designing-simple-pie-charts-with-css.html) by [@彦子](http://weibo.com/793617505sy)
 - [The Seven Stages of SVG](http://codepen.io/chrisgannon/blog/seven-stages-of-svg) by [@Chris Gannon](http://codepen.io/chrisgannon/)
-- [Styling SVG `<use>` Content with CSS](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css) by [@Sara Soueidan](http://tympanus.net/codrops/author/sarasoueidan/)
+- [Styling SVG `<use>` Content with CSS](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css) by [@Sara Soueidan](http://tympanus.net/codrops/author/sarasoueidan/)——[译文](http://www.w3cplus.com/svg/styling-svg-use-content-css.html)  by [@彦子](http://weibo.com/793617505sy)
 - [ART-DIRECTING AN SVG EMBEDDED USING `<OBJECT>`](http://sarasoueidan.com/blog/art-directing-svg-object/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
 - [Discover the power of SVG](http://www.creativebloq.com/web-design/discover-power-svg-61515291)
 - [Tips for using SVGs in web projects](http://benfrain.com/tips-for-using-svgs-in-web-projects/) by [@Ben Frain](https://plus.google.com/107588612045728705538)
