@@ -3,6 +3,7 @@ SVG Resources
 
 ###Basics
 
+- [Creating Material Design Ripple Effects with SVG](http://tympanus.net/codrops/2015/09/14/creating-material-design-ripple-effects-svg/) by [@Dennis Gaebel](http://tympanus.net/codrops/author/dennisgaebel/)
 - [An Overview of SVG Patterns](http://blogs.adobe.com/dreamweaver/2015/09/svg-patterns.html) by [@Lucas Bebber](http://blogs.adobe.com/dreamweaver/author/lucas-bebber)
 - [Tight Fitting SVG Shapes, the Present and Future](https://css-tricks.com/tight-fitting-svg-shapes/) by [@ Ana Tudor](https://css-tricks.com/author/thebabydino/)
 - [CSS vs. SVG: Graphical Text Effects](http://blogs.adobe.com/dreamweaver/2015/07/css-vs-svg-graphical-text.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)——[译文](http://www.w3cplus.com/svg/css-vs-svg-graphical-text.html) by [@大漠](http://www.w3cplus.com)
