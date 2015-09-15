@@ -3,6 +3,7 @@ SVG Resources
 
 ###Basics
 
+- [SVG animation with GreenSock.](https://www.august.com.au/blog/svg-animation-with-greensock/) by [@Allan Pope](https://twitter.com/augustco)
 - [Creating Material Design Ripple Effects with SVG](http://tympanus.net/codrops/2015/09/14/creating-material-design-ripple-effects-svg/) by [@Dennis Gaebel](http://tympanus.net/codrops/author/dennisgaebel/)
 - [An Overview of SVG Patterns](http://blogs.adobe.com/dreamweaver/2015/09/svg-patterns.html) by [@Lucas Bebber](http://blogs.adobe.com/dreamweaver/author/lucas-bebber)
 - [Tight Fitting SVG Shapes, the Present and Future](https://css-tricks.com/tight-fitting-svg-shapes/) by [@ Ana Tudor](https://css-tricks.com/author/thebabydino/)
