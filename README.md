@@ -52,6 +52,8 @@ SVG Resources
 
 ### Transform && Animation
 
+- [Creating an Accessible Breakout Game Using Web Audio and SVG](http://www.sitepoint.com/creating-accessible-breakout-game-using-web-audio-svg/) by [@David Rousset](http://www.sitepoint.com/author/drousset/)
+- [Creating Cel Animations With SVG](http://www.smashingmagazine.com/2015/09/creating-cel-animations-with-svg/) by [@Heydon Pickering](http://www.smashingmagazine.com/author/heydon-pickering/)
 - [Diving deep into SVG animations](https://medium.com/design-optimizely/diving-deep-into-svg-animations-1e8c1b759b85) by [@Daniel O'Connor](https://medium.com/@danoc)
 - [The State of SVG Animation](http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html)  by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)
 - [Animate SVG Icons with CSS3 & JavaScript](http://pencilscoop.com/2013/11/animate-svg-icons-with-css3-jquery) By Joe Howard
