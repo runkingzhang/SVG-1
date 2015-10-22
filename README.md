@@ -4,6 +4,7 @@ SVG Resources
 ###Basics
 
 - [**SVG教程**](http://vanseodesign.com/tag/svg/)
+- [Rendering SVG Paths in WebGL](https://css-tricks.com/rendering-svg-paths-in-webgl/)
 - [How to Make Charts with SVG](https://css-tricks.com/how-to-make-charts-with-svg/) by [@ROBIN RENDLE](https://css-tricks.com/author/robinrendle/)
 - [How To Make An SVG Lava Lamp](http://codepen.io/chrisgannon/blog/how-to-make-an-svg-lava-lamp) by [@Chris Gannon](http://codepen.io/chrisgannon/)
 - [SVG animation with GreenSock.](https://www.august.com.au/blog/svg-animation-with-greensock/) by [@Allan Pope](https://twitter.com/augustco)
