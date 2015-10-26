@@ -6,7 +6,7 @@ SVG Resources
 - [**SVG教程**](http://vanseodesign.com/tag/svg/)
 - [Rendering SVG Paths in WebGL](https://css-tricks.com/rendering-svg-paths-in-webgl/)
 - [How to Make Charts with SVG](https://css-tricks.com/how-to-make-charts-with-svg/) by [@ROBIN RENDLE](https://css-tricks.com/author/robinrendle/)
-- [How To Make An SVG Lava Lamp](http://codepen.io/chrisgannon/blog/how-to-make-an-svg-lava-lamp) by [@Chris Gannon](http://codepen.io/chrisgannon/)
+- [How To Make An SVG Lava Lamp](http://codepen.io/chrisgannon/blog/how-to-make-an-svg-lava-lamp) by [@Chris Gannon](http://codepen.io/chrisgannon/)—— [译文](http://www.w3cplus.com/svg/how-to-make-an-svg-lava-lamp.html) by [@彦子](http://weibo.com/793617505sy)
 - [SVG animation with GreenSock.](https://www.august.com.au/blog/svg-animation-with-greensock/) by [@Allan Pope](https://twitter.com/augustco)
 - [Creating Material Design Ripple Effects with SVG](http://tympanus.net/codrops/2015/09/14/creating-material-design-ripple-effects-svg/) by [@Dennis Gaebel](http://tympanus.net/codrops/author/dennisgaebel/)
 - [An Overview of SVG Patterns](http://blogs.adobe.com/dreamweaver/2015/09/svg-patterns.html) by [@Lucas Bebber](http://blogs.adobe.com/dreamweaver/author/lucas-bebber)
