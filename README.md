@@ -57,6 +57,7 @@ SVG Resources
 
 ### Transform && Animation
 
+- [Diving deep into SVG animations](https://medium.com/design-optimizely/diving-deep-into-svg-animations-1e8c1b759b85#.wsanqcyep) by [@danoc](https://medium.com/@danoc)
 - [Creating an Accessible Breakout Game Using Web Audio and SVG](http://www.sitepoint.com/creating-accessible-breakout-game-using-web-audio-svg/) by [@David Rousset](http://www.sitepoint.com/author/drousset/)
 - [Creating Cel Animations With SVG](http://www.smashingmagazine.com/2015/09/creating-cel-animations-with-svg/) by [@Heydon Pickering](http://www.smashingmagazine.com/author/heydon-pickering/)——[译文](http://www.w3cplus.com/svg/creating-cel-animations-with-svg.html) by [@彦子](http://weibo.com/793617505sy)
 - [Diving deep into SVG animations](https://medium.com/design-optimizely/diving-deep-into-svg-animations-1e8c1b759b85) by [@Daniel O'Connor](https://medium.com/@danoc)
