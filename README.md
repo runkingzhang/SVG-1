@@ -3,6 +3,7 @@ SVG Resources
 
 ###Basics
 
+- [Tips for Creating and Exporting Better SVGs for the Web](http://sarasoueidan.com/blog/svg-tips-for-designers/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
 - [**SVG教程**](http://vanseodesign.com/tag/svg/)
 - [Rendering SVG Paths in WebGL](https://css-tricks.com/rendering-svg-paths-in-webgl/)
 - [How to Make Charts with SVG](https://css-tricks.com/how-to-make-charts-with-svg/) by [@ROBIN RENDLE](https://css-tricks.com/author/robinrendle/)
