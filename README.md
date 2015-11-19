@@ -112,3 +112,7 @@ SVG Resources
 - [Pocket Guide to Writing SVG](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md) by [@Joni Trythall](https://github.com/jonitrythall)
 - [SVG 完整教學 31 天](http://www.oxxostudio.tw/articles/201410/svg-tutorial.html)
 
+
+### GASP
+
+- [Recreating the Google Logo Animation with SVG and GreenSock](https://css-tricks.com/recreating-the-google-logo-animation-with-svg-and-greensock/) by [@Petr Tichy](https://ihatetomatoes.net/)
