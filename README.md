@@ -3,6 +3,7 @@ SVG Resources
 
 ###Basics
 
+- [Optimising SVG load with Service Worker](https://www.clicktorelease.com/blog/optimise-svg-load-service-worker) by [@thespite](http://twitter.com/thespite)
 - [Animated SVG vs GIF [CAGEMATCH]](http://sarasoueidan.com/blog/svg-vs-gif/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
 - [Tips for Creating and Exporting Better SVGs for the Web](http://sarasoueidan.com/blog/svg-tips-for-designers/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan) ——[译文](http://www.w3cplus.com/svg/svg-tips-for-designers.html) by [@彦子](http://weibo.com/793617505sy)
 - [**SVG教程**](http://vanseodesign.com/tag/svg/)
