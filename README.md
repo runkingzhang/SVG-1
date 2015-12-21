@@ -60,6 +60,7 @@ SVG Resources
 
 ### Transform && Animation
 
+- [Animating Clipped Elements In SVG](http://www.smashingmagazine.com/2015/12/animating-clipped-elements-svg/) by [@Dennis Gaebel Jr](http://www.smashingmagazine.com/author/dennisgaebeljr/)
 - [SMIL is dead! Long live SMIL! A Guide to Alternatives to SMIL Features](https://css-tricks.com/smil-is-dead-long-live-smil-a-guide-to-alternatives-to-smil-features/) by [@SARAH DRASNER](https://css-tricks.com/author/sdrasner/)
 - [How To Animate Element Along SVG Path](http://icanbecreative.com/article/animate-element-along-svg-path) by [@Vlad Georgescu](http://icanbecreative.com/)
 - [Diving deep into SVG animations](https://medium.com/design-optimizely/diving-deep-into-svg-animations-1e8c1b759b85#.wsanqcyep) by [@danoc](https://medium.com/@danoc)
