@@ -3,6 +3,7 @@ SVG Resources
 
 ###Basics
 
+- [Generating SVG With React](http://www.smashingmagazine.com/2015/12/generating-svg-with-react/) by [@Ilya Zayats](http://www.smashingmagazine.com/author/ilya/)
 - [Optimising SVG load with Service Worker](https://www.clicktorelease.com/blog/optimise-svg-load-service-worker) by [@thespite](http://twitter.com/thespite)
 - [Animated SVG vs GIF [CAGEMATCH]](http://sarasoueidan.com/blog/svg-vs-gif/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
 - [Tips for Creating and Exporting Better SVGs for the Web](http://sarasoueidan.com/blog/svg-tips-for-designers/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan) ——[译文](http://www.w3cplus.com/svg/svg-tips-for-designers.html) by [@彦子](http://weibo.com/793617505sy)
@@ -85,8 +86,4 @@ SVG Resources
 - [SVG 完整教學 31 天](http://www.oxxostudio.tw/articles/201410/svg-tutorial.html)
 
 
-### GSAP
 
-- [**GreenSock教程**](https://ihatetomatoes.net/tags/greensock/)
-- [The Making of the CSS-Tricks Logo Easter Egg Animation](https://css-tricks.com/the-making-of-the-css-tricks-logo-easter-egg-animation/) by [@SARAH DRASNER](https://css-tricks.com/author/sdrasner/)
-- [Recreating the Google Logo Animation with SVG and GreenSock](https://css-tricks.com/recreating-the-google-logo-animation-with-svg-and-greensock/) by [@Petr Tichy](https://ihatetomatoes.net/)
