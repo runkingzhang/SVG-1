@@ -3,6 +3,7 @@ SVG Resources
 
 ###Basics
 
+- [Click SVG Element to Focus](https://css-tricks.com/click-svg-to-focus/) by [@CHRIS COYIER](https://css-tricks.com/author/chriscoyier/)
 - [Generating SVG With React](http://www.smashingmagazine.com/2015/12/generating-svg-with-react/) by [@Ilya Zayats](http://www.smashingmagazine.com/author/ilya/)
 - [Optimising SVG load with Service Worker](https://www.clicktorelease.com/blog/optimise-svg-load-service-worker) by [@thespite](http://twitter.com/thespite)
 - [Animated SVG vs GIF [CAGEMATCH]](http://sarasoueidan.com/blog/svg-vs-gif/) by [@SaraSoueidan](http://twitter.com/SaraSoueidan)
