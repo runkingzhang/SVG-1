@@ -3,7 +3,8 @@ SVG Resources
 
 ## 2016年资源
 
-- [Finessing `feColorMatrix`](http://alistapart.com/article/finessing-fecolormatrix) by [@Una Kravets](http://alistapart.com/author/unakravets) [2016-02-11]
+- [SVG Style Inheritance and the ‘Flash Of Unstyled SVG’](https://sarasoueidan.com/blog/svg-style-inheritance-and-FOUSVG/) by [@Sara Soueidan](http://sarasoueidan.com/) [2016-03-01]
+- [Finessing `feColorMatrix`](http://alistapart.com/article/finessing-fecolormatrix) by [@Una Kravets](http://alistapart.com/author/unakravets) [2016-02-11] —— [译文](http://www.w3cplus.com/svg/finessing-fecolormatrix.html) by @大漠
 
 ## 2015年资源
 
